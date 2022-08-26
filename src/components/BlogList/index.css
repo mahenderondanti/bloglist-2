@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.blogs-container {
+  width: 90%;
+  padding-left: 0px;
+}
+
+@media screen ang (min-width: 992px) {
+  .blogs-container {
+    width: 70%;
+  }
+}
